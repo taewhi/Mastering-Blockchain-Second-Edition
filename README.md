@@ -19,7 +19,7 @@ contract TestStruct {
     string trader; 
   } 
  
-  // 이 구조체는 아래처럼 초기화하 사용하며 된다. 
+  // 이 구조체는 아래처럼 초기화하여 사용하면 된다. 
  
   Trade tStruct = Trade({tradeid:123, quantity:1, price:1, trader:"equinox"}); 
  
