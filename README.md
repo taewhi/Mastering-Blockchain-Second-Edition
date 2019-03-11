@@ -1,5 +1,5 @@
-# 블록체인 완전정복(제 2판)
-[에이콘출판사](http://acornpub.co.kr)에서 출간한 [블록체인 완전정복](http://acornpub.co.kr/book/mastering-blockchain)의 코드 저장소입니다. 원서는 [팩트출판사(Packt)](https://www.packtpub.com/)에서 출간한 [Mastering Blockchain - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/mastering-blockchain-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788839044)입니다. 이 책을 처음부터 끝까지 진행하는 데 필요한 모든 보조 프로젝트 파일이 담겨 있습니다.
+# 블록체인 완전정복 2/e
+[에이콘출판사](http://acornpub.co.kr)에서 출간한 [블록체인 완전정복 2/e](http://acornpub.co.kr/book/mastering-blockchain-2e)의 코드 저장소입니다. 원서는 [팩트출판사(Packt)](https://www.packtpub.com/)에서 출간한 [Mastering Blockchain - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/mastering-blockchain-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788839044)입니다. 이 책을 처음부터 끝까지 진행하는 데 필요한 모든 보조 프로젝트 파일이 담겨 있습니다.
 ## 이 책에 관하여
 블록체인은 여러 노드에 걸쳐 복제되는 분산 원장으로, 트랜잭션 기록을 변경 불가능하고, 투명하며, 암호화하여 안전하게 보관하도록 해줍니다. 블록체인 기술은 암호화폐의 근간이며, 금융, 정부, 언론 등 거의 모든 산업 분야에 적용되고 있습니다. 블록체인 완전정복, 제 2판에서는 전면 개정증보를 거쳐, 선도 기술인 블록체인과 그 구현에 대해 자세히 설명하였습니다.
 
@@ -36,7 +36,7 @@ contract TestStruct {
 ## 관련 도서 상품
 
 ### 에이콘출판사
-* [블록체인 완전정복](http://acornpub.co.kr/book/mastering-blockchain)
+* [블록체인 완전정복 2/e](http://acornpub.co.kr/book/mastering-blockchain-2e)
 * [블록체인 해설서](http://acornpub.co.kr/book/blockchain-guide)
 * [블록체인 기술과 혁신적 서비스 개발 활용](http://acornpub.co.kr/book/blockchain-application)
 * [블록체인 개념구축](http://acornpub.co.kr/book/blocks-chains)
