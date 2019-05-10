@@ -7,7 +7,7 @@
 ## 이용 안내
 모든 코드는 폴더별로 구성되어 있으며, 폴더명은 Chapter02와 같이 장별로 분리되어 있습니다.
 
-코드느 다음과 같은 모습입니다.
+코드는 다음과 같은 모습입니다.
 ```
 pragma solidity ^0.4.0; 
 contract TestStruct { 
@@ -42,6 +42,7 @@ contract TestStruct {
 * [블록체인 개념구축](http://acornpub.co.kr/book/blocks-chains)
 * [비트코인과 블록체인, 탐욕이 삼켜버린 기술](http://acornpub.co.kr/book/bitcoin-blockchain)
 * [이더리움을 활용한 블록체인 프로젝트 구축](http://acornpub.co.kr/book/blockchain-projects)
+* [이더리움 쿡북](http://www.acornpub.co.kr/book/ethereum-cookbook)
 
 ### 팩트출판사
 * [Mastering Blockchain](https://www.packtpub.com/big-data-and-business-intelligence/mastering-blockchain?utm_source=github&utm_medium=repository&utm_campaign=9781787125445)
